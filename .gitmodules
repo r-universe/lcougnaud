@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "a4"]
+	path = a4
+	url = https://git.bioconductor.org/packages/a4
+	shallow = true
+	registered = true
+[submodule "a4Base"]
+	path = a4Base
+	url = https://git.bioconductor.org/packages/a4Base
+	shallow = true
+	registered = true
+[submodule "a4Classif"]
+	path = a4Classif
+	url = https://git.bioconductor.org/packages/a4Classif
+	shallow = true
+	registered = true
+[submodule "a4Core"]
+	path = a4Core
+	url = https://git.bioconductor.org/packages/a4Core
+	shallow = true
+	registered = true
+[submodule "a4Preproc"]
+	path = a4Preproc
+	url = https://git.bioconductor.org/packages/a4Preproc
+	shallow = true
+	registered = true
+[submodule "a4Reporting"]
+	path = a4Reporting
+	url = https://git.bioconductor.org/packages/a4Reporting
+	shallow = true
+	registered = true
+[submodule "esetVis"]
+	path = esetVis
+	url = https://git.bioconductor.org/packages/esetVis
+	shallow = true
+	registered = true
+[submodule "nlcv"]
+	path = nlcv
+	url = https://github.com/cran/nlcv
+	shallow = true
+	registered = true
