@@ -2,27 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "a4"]
-	path = a4
-	url = https://git.bioconductor.org/packages/a4
-[submodule "a4Base"]
-	path = a4Base
-	url = https://git.bioconductor.org/packages/a4Base
-[submodule "a4Classif"]
-	path = a4Classif
-	url = https://git.bioconductor.org/packages/a4Classif
-[submodule "a4Core"]
-	path = a4Core
-	url = https://git.bioconductor.org/packages/a4Core
-[submodule "a4Preproc"]
-	path = a4Preproc
-	url = https://git.bioconductor.org/packages/a4Preproc
-[submodule "a4Reporting"]
-	path = a4Reporting
-	url = https://git.bioconductor.org/packages/a4Reporting
-[submodule "esetVis"]
-	path = esetVis
-	url = https://git.bioconductor.org/packages/esetVis
 [submodule "nlcv"]
 	path = nlcv
 	url = https://github.com/cran/nlcv
